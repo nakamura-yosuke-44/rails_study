@@ -1,4 +1,4 @@
-class Myclass
+class MyClass
     def method_1
         @number = 100
     end
