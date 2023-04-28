@@ -5,6 +5,9 @@ class Person
     def billionaire?
         money >= 100000000
     end
+
+    private
+    
     def money
         @money
     end
